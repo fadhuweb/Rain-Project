@@ -1,0 +1,894 @@
+{
+    "data": {
+        "itinerary": {
+            "id": "18395-2407081425--31147-0-18169-2407081705",
+            "legs": [
+                {
+                    "id": "18395-2407081425--31147-0-18169-2407081705",
+                    "origin": {
+                        "id": "18395",
+                        "name": "Montreal Pierre Elliott Trudeau",
+                        "displayCode": "YUL",
+                        "city": "Montreal"
+                    },
+                    "destination": {
+                        "id": "18169",
+                        "name": "Halifax International",
+                        "displayCode": "YHZ",
+                        "city": "Halifax"
+                    },
+                    "segments": [
+                        {
+                            "id": "18395-18169-2407081425-2407081705--31147",
+                            "origin": {
+                                "id": "18395",
+                                "name": "Montreal Pierre Elliott Trudeau",
+                                "displayCode": "YUL",
+                                "city": "Montreal"
+                            },
+                            "destination": {
+                                "id": "18169",
+                                "name": "Halifax International",
+                                "displayCode": "YHZ",
+                                "city": "Halifax"
+                            },
+                            "duration": 100,
+                            "dayChange": 0,
+                            "flightNumber": "F8130",
+                            "departure": "2024-07-08T14:25:00",
+                            "arrival": "2024-07-08T17:05:00",
+                            "marketingCarrier": {
+                                "id": "-31147",
+                                "name": "Flair Airlines",
+                                "displayCode": "F8",
+                                "displayCodeType": "IATA",
+                                "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                "altId": "F."
+                            },
+                            "operatingCarrier": {
+                                "id": "-31147",
+                                "name": "Flair Airlines",
+                                "displayCode": "F8",
+                                "displayCodeType": "IATA",
+                                "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                "altId": "F."
+                            }
+                        }
+                    ],
+                    "duration": 100,
+                    "stopCount": 0,
+                    "departure": "2024-07-08T14:25:00",
+                    "arrival": "2024-07-08T17:05:00",
+                    "dayChange": 0
+                }
+            ],
+            "pricingOptions": [
+                {
+                    "agents": [
+                        {
+                            "id": "edus",
+                            "name": "eDreams",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/edus/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=84.97&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mJJTSktFmLmWOQqxcLxs5dRoeHGmi1sRkwKjAC6gBJ_HQAAAA|-4695955160409581420|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:27:09&pqid=true",
+                            "price": 84.97,
+                            "rating": {
+                                "value": 2.62,
+                                "count": 7574
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 84.97,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "bC3Jhb4JCyso"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "tlcy",
+                            "name": "Travelocity",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/tlcy/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|L|Y|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=86.75&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mIpyUmuFGLmWOQqxcLxs5dRoeHGmi1sRkwKjADSECgrHQAAAA|-6998414195515877779|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:50&pqid=true",
+                            "price": 86.75,
+                            "rating": {
+                                "value": 1.57,
+                                "count": 860
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 86.75,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "bJjt2I_pfHO4"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "orbz",
+                            "name": "Orbitz",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/orbz/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|L|Y|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=86.75&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mLJL0qqEmLmWOQqxcLxs5dRoeHGmi1sRkwKjAAfRInVHQAAAA|-6998414195515877779|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:50&pqid=true",
+                            "price": 86.75,
+                            "rating": {
+                                "value": 1.35,
+                                "count": 695
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 86.75,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "xd2m1AbF7DU-"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "xpus",
+                            "name": "Expedia",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/xpus/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|L|Y|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=87.10&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mKpKCgtFmLmWOQqxcLxs5dRoeHGmi1sRkwKjAD0D1VDHQAAAA|-6998414195515877779|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:50&pqid=true",
+                            "price": 87.1,
+                            "rating": {
+                                "value": 4.71,
+                                "count": 9406
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 87.1,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "rs-VBRLV2Swd"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "cust",
+                            "name": "Trip.com",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/cust/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=88.30&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-NS52JJLi0uEWLmWOQqxcLxs5dRoeHGmi1sRkwKjEWsqXm6ocFVzKHBLgAfB-epKQAAAA|-4695955160409581420|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:35:38&pqid=true",
+                            "price": 88.3,
+                            "rating": {
+                                "value": 4.44,
+                                "count": 10036
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 65.0
+                        }
+                    ],
+                    "totalPrice": 88.3,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "Jd74yodWp1aP"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "bcom",
+                            "name": "Booking.com ",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/bcom/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=90.99&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-NS4GJJSs7PFWLmWOQqxcLxs5dRoeHGmi1sRkwKjFXMocEuALUCIBkiAAAA|4102303992544531638|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:51&pqid=true",
+                            "price": 90.99,
+                            "rating": {
+                                "value": 4.8,
+                                "count": 5862
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 90.99,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "OxS3ri6eX59l"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "arus",
+                            "name": "Mytrip",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/arus/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=90.99&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-NS4GJJLCotFmLmWOQqxcLxs5dRoeHGmi1sRkwKjFXMocEuAJaQeo0iAAAA|-4543643320612153336|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:51&pqid=true",
+                            "price": 90.99,
+                            "rating": {
+                                "value": 4.01,
+                                "count": 5960
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 90.99,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "db76DIpOOu6K"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "fnus",
+                            "name": "FlightNetwork",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/fnus/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=94.99&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-NS4GJJyystFmLmWOQqxcLxs5dRoeHGmi1sRkwKjFXMocEuANgTIkciAAAA|-4543643320612153336|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:51&pqid=true",
+                            "price": 94.99,
+                            "rating": {
+                                "value": 3.82,
+                                "count": 872
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 94.99,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "vHmT_GxfK9dV"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "chpo",
+                            "name": "CheapOair",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/chpo/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=98.41&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mJJzijIF2LmWOQqxcLxs5dRoeHGmi1sRkwKjAD7-vh4HQAAAA|-7436972979372155739|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:50&pqid=false",
+                            "price": 98.41,
+                            "rating": {
+                                "value": 3.12,
+                                "count": 2177
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 98.41,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "aXbzwCsMiqoN"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "pcln",
+                            "name": "Priceline",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/pcln/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|L|Y|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=99.14&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mIpSM7JE2LmWOQqxcLxs5dRoeHGmi1sRkwKjABp_q6JHQAAAA|-7463625480074415792|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:52&pqid=false",
+                            "price": 99.14,
+                            "rating": {
+                                "value": 2.6,
+                                "count": 1485
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 99.14,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "TkvyayoaGqL7"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "vaya",
+                            "name": "BudgetAir",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/vaya/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=111.89&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mIpS6xMFGLmWOQqxcLxs5dRoeHGmi1sRkwKjACLi4l9HQAAAA|-7882778143011961057|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:59&pqid=true",
+                            "price": 111.89,
+                            "rating": {
+                                "value": 3.48,
+                                "count": 1893
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 111.89,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "wbzMhSQUtOjK"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "skyp",
+                            "name": "Kiwi.com",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/skyp/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=112.00&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mIpzq4sEGLmWOQqxcLxs5dRoeHGmi1sRkwKjABOj1aWHQAAAA|-7436972979372155739|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:26:57&pqid=true",
+                            "price": 112.0,
+                            "rating": {
+                                "value": 3.29,
+                                "count": 4873
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 112.0,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "SDwTaMkSqKxp"
+                },
+                {
+                    "agents": [
+                        {
+                            "id": "kfus",
+                            "name": "Kissandfly",
+                            "isCarrier": false,
+                            "bookingProposition": "PBOOK",
+                            "url": "https://www.skyscanner.net/transport_deeplink/4.0/US/en-US/USD/kfus/1/18395.18169.2024-07-08/air/trava/flights?itinerary=flight|-31147|130|18395|2024-07-08T14:25|18169|2024-07-08T17:05|100|-|-|-&carriers=-31147&operators=-31147&passengers=1&channel=android&cabin_class=economy&fps_session_id=089b9823-ab5d-429c-b6a6-0d97d7d0eea0&ticket_price=121.00&is_npt=false&is_multipart=false&client_id=skyscanner_app&request_id=24b2ec1f-974d-4207-8c46-3168f2c2766e&q_ids=H4sIAAAAAAAA_-OS5mLJTistFmLmWOQqxcLxs5dRoeHGmi1sRkwKjACks_nhHQAAAA|-7882778143011961057|2&q_sources=JACQUARD&commercial_filters=false&q_datetime_utc=2024-07-04T08:27:00&pqid=false",
+                            "price": 121.0,
+                            "rating": {
+                                "value": 3.23,
+                                "count": 1903
+                            },
+                            "updateStatus": "PENDING",
+                            "segments": [
+                                {
+                                    "id": "18395-18169-2407081425-2407081705--31147",
+                                    "origin": {
+                                        "id": "18395",
+                                        "name": "Montreal Pierre Elliott Trudeau",
+                                        "displayCode": "YUL",
+                                        "city": "Montreal"
+                                    },
+                                    "destination": {
+                                        "id": "18169",
+                                        "name": "Halifax International",
+                                        "displayCode": "YHZ",
+                                        "city": "Halifax"
+                                    },
+                                    "duration": 100,
+                                    "dayChange": 0,
+                                    "flightNumber": "F8130",
+                                    "departure": "2024-07-08T14:25:00",
+                                    "arrival": "2024-07-08T17:05:00",
+                                    "marketingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    },
+                                    "operatingCarrier": {
+                                        "id": "-31147",
+                                        "name": "Flair Airlines",
+                                        "displayCode": "F8",
+                                        "displayCodeType": "IATA",
+                                        "logo": "https://logos.skyscnr.com/images/airlines/favicon/F..png",
+                                        "altId": "F."
+                                    }
+                                }
+                            ],
+                            "isDirectDBookUrl": false,
+                            "quoteAge": 73.0
+                        }
+                    ],
+                    "totalPrice": 121.0,
+                    "fare": {
+                        "leg_details": []
+                    },
+                    "id": "lK1RIQg04J3_"
+                }
+            ],
+            "isTransferRequired": false,
+            "destinationImage": "https://content.skyscnr.com/6f059a8970190a4e03f32d1b41c84b18/yhza_167769477.jpg",
+            "operatingCarrierSafetyAttributes": [
+                {
+                    "carrierID": "-31147",
+                    "carrierName": "Flair Airlines",
+                    "faceMasksCompulsory": null,
+                    "aircraftDeepCleanedDaily": null,
+                    "attendantsWearPPE": null,
+                    "cleaningPacksProvided": null,
+                    "foodServiceChanges": null,
+                    "safetyUrl": null
+                }
+            ],
+            "flexibleTicketPolicies": []
+        },
+        "pollingCompleted": false,
+        "bookingSessionId": "089b9823-ab5d-429c-b6a6-0d97d7d0eea0"
+    },
+    "status": true,
+    "message": "Successful"
+}
